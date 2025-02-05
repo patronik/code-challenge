@@ -1,2 +1,3 @@
-src/problem4/node_modules
-src/problem4/build
+src/**/node_modules
+src/**/build
+src/problem5/database.db
