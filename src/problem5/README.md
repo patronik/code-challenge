@@ -2,7 +2,7 @@
 
 ## Overview
 
-This service implements CRUD for book entity. It's written in Typescript and based on Express.js framework. It uses sqlite database as data storage.
+This service implements CRUD for book entity. It's written in Typescript and based on Express.js framework. It uses sqllite database as data storage.
 
 ---
 
